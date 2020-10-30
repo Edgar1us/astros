@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<astro>
+	
+	<star>Sun</star>
+	<weight>1000000</weight>
+	<type>yellow dwarf</type>
+	
+	<planeta system="Solar">
+		<name>Merury</name>
+		<weight>100</weight>
+		<temperature>61</temperature>
+		<satellites>
+			<name>Moon</name>
+			<weight>20</weight>
+			<period>2</period>
+			<normal>
+				<year>1957</year>
+			</normal>
+			<artificial>                
+				<caliber>20</caliber>
+			</artificial>
+		</satellites>
+	</planeta>
+	<planeta system="Solar">
+		<name>Venus</name>
+		<weight>200</weight>
+		<temperature>464</temperature>
+		<satellites>
+			<name>Moon</name>
+			<weight>20</weight>
+			<period>2</period>
+			<normal>
+				<year>1957</year>
+			</normal>
+			<artificial>                
+				<caliber>20</caliber>
+			</artificial>
+		</satellites>
+	</planeta>
+	<planeta system="Solar">
+		<name>Earth</name>
+		<weight>250</weight>
+		<temperature>14</temperature>
+		<satellites>
+			<name>Moon</name>
+			<weight>20</weight>
+			<period>2</period>
+			<normal>
+				<year>1957</year>
+			</normal>
+			<artificial>                
+				<caliber>20</caliber>
+			</artificial>
+		</satellites>
+	</planeta>
+	<planeta system="Solar">
+		<name>Mars</name>
+		<weight>180</weight>
+		<temperature>-63</temperature>
+	</planeta>
+	<planeta system="Solar">
+		<name>Jupiter</name>
+		<weight>25000</weight>
+		<temperature>20</temperature>
+		<satellites>
+			<name>Moon</name>
+			<weight>20</weight>
+			<period>2</period>
+			<normal>
+				<year>1957</year>
+			</normal>
+			<artificial>                
+				<caliber>20</caliber>
+			</artificial>
+		</satellites>
+	</planeta>
+	<planeta system="Solar">
+		<name>Saturnus</name>
+		<weight>20000</weight>
+		<temperature>40</temperature>
+	</planeta>
+	<planeta system="Solar">
+		<name>Uranus</name>
+		<weight>5000</weight>
+		<temperature>100</temperature>
+	</planeta>
+	<planeta system="Solar">
+		<name>Neptunus</name>
+		<weight>1000</weight>
+		<temperature>200</temperature>
+	</planeta>
+	<planeta system="Solar">
+		<name>Pluto</name>
+		<weight>100</weight>
+		<temperature>-229</temperature>
+		<satellites>
+			<name>Moon</name>
+			<weight>20</weight>
+			<period>2</period>
+			<normal>
+				<year>1957</year>
+			</normal>
+			<artificial>                
+				<caliber>20</caliber>
+			</artificial>
+		</satellites>
+	</planeta>
+	
+</astro>
